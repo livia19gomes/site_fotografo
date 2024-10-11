@@ -42,3 +42,30 @@ header a {
     font-size: larger;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+/* inicio footer */
+.redes {
+    justify-self: flex-end;
+    padding-right: 30px;
+    text-align: end;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--letracabecalho);
+}
+
+
+.tamanhoimg{
+    width: 100px;
+}
+
+.p3 {
+    text-align: center;
+    color: var(--branco);
+    font-size: larger;
+    padding: 30px;
+}
+
+footer{
+    background-color: var(--rodape);
+}
+
+/* fim footer */
